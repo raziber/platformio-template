@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "name": "joystick",
+      "path": "firmware/joystick"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.pio": true,
+      "**/__pycache__": true
+    },
+    "python.defaultInterpreterPath": "${workspaceFolder:root}/.venv/Scripts/python.exe"
+  }
+}
