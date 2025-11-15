@@ -1,17 +1,20 @@
-# Virtual environments
+# Python
+## Virtual environments
 .venv/
 
-# Python cache
+## Python cache
 __pycache__/
 *.pyc
 
-# VSCode
-.vscode/
-
-# PyQt / pyqtgraph temporary files
+## PyQt / pyqtgraph temporary files
 *.qmlc
 *.qrc
 *.pyqti
 
-# Logs
+# PlatformIO
+.pio
+.vscode/
+
+# General
+.DS_Store
 *.log
