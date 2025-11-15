@@ -12,3 +12,5 @@ This template provides a clean, scalable structure for projects that include:
 
 - Each hardware module should have its own PlatformIO project.
 - Open `project.code-workspace` in VSCode.
+- Start by create a venv `python -m venv .venv`.
+  
